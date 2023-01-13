@@ -6,5 +6,5 @@ input.onButtonPressed(Button.B, function () {
 })
 basic.showString("HELLO HAVE A GREAT DAY")
 basic.forever(function () {
-    music.playTone(262, music.beat(BeatFraction.Whole))
+	
 })
